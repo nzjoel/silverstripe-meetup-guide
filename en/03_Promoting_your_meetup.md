@@ -6,4 +6,4 @@ Get your own Twitter and Facebook account, which will retweet and re-share every
 
 During the meetup/conference, have it in your slides.
 
-Aim for some well respected community members of technologists from the wider web commnity if you can. Having [exciting speakers](approaching_speakers) is something you can use to promte and get people along to your meetup.
+Aim for some well respected community members of technologists from the wider web commnity if you can. Having [exciting speakers](approaching_speakers) is something you can use to promote and get people along to your meetup.
